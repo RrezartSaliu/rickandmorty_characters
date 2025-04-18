@@ -1,0 +1,16 @@
+{
+    "header": "Rick and Morty Charaktere",
+    "sort_placeholder": "Sortiermethode auswählen",
+    "default": "STANDARD",
+    "name": "NAME",
+    "origin": "HERKUNFT",
+    "species": "Spezies",
+    "gender": "Geschlecht",
+    "Alive": "Lebendig",
+    "Dead": "Tot",
+    "unknown": "Unbekannt",
+    "Male": "Männlich",
+    "Female": "Weiblich",
+    "Alien": "Ausländer",
+    "Human": "Menschlich"
+}

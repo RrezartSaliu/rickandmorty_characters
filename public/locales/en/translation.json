@@ -1,0 +1,16 @@
+{
+    "header": "Rick and Morthy Characters",
+    "sort_placeholder": "Select sort method",
+    "default": "DEFAULT",
+    "name": "NAME",
+    "origin": "ORIGIN",
+    "species": "Species",
+    "gender": "Gender",
+    "Alive": "Alive",
+    "Dead": "Dead",
+    "unknown": "Unknown",
+    "Male": "Male",
+    "Female": "Female",
+    "Alien": "Alien",
+    "Human": "Human"
+}
